@@ -5,5 +5,5 @@ class App < Sinatra::Base
   
   configure do
   enable :sessions
-end
+  end
 end
